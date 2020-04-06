@@ -1,12 +1,14 @@
 # VoiceLord 1.3.2 by Aeurias for Mount & Blade II: Bannerlord
 
+[NexusMods Page Here](https://www.nexusmods.com/mountandblade2bannerlord/mods/59)
+
 ![](https://i.imgur.com/Qd7BNMq.png)
 
 ![](https://i.imgur.com/ByrmX54.png)
 
 **So how does it work?**
 
-**VoiceLord** works by using a speech recognition utility **VoiceMacro** (*Which is like VoiceAttack but costs you nothing, yes it's free!*) with this we can send a combination of keys to the game to cast our commands for controlling troops = **Less faffing about with your keyboard + more immersion + more action!**
+**VoiceLord** works by using a speech recognition utility [**VoiceMacro**](http://www.voicemacro.net/download/) (*Which is like VoiceAttack but costs you nothing, yes it's free!*) with this we can send a combination of keys to the game to cast our commands for controlling troops = **Less faffing about with your keyboard + more immersion + more action!**
 
 
 **Give us some examples!**
@@ -25,8 +27,8 @@ Of course, because swearing is cool... just add the F word to some commands or..
 Simple, you will need:
 
 + **A microphone.**
-+ **VoiceMacro**
-+ **My VoiceLord profile.**
++ [**VoiceMacro**](http://www.voicemacro.net/download/)
++ [**My VoiceLord profile**](https://www.nexusmods.com/mountandblade2bannerlord/mods/59/)
 
 1. **Download the VoiceLord file from the files section and extract it.**
 2. **Import into VoiceMacro by pressing the Edit button at the top left.**
