@@ -61,7 +61,7 @@ If your voice is recognised but no actions are being inputted into the game, try
 
 ![](https://cdn.discordapp.com/emojis/600180300747767808.png) ![](https://i.imgur.com/j4XaxuX.png)
 
-*Also, make sure nothing in the top right of the VoiceMacro app has been toggled off **(Red X).** *
+> *Also, make sure nothing in the top right of the VoiceMacro app has been toggled off **(Red X).** *
 
 
 You will also need to make sure you have *Microsoft Speech Recogniser in English* on your machine, most likely you will.
