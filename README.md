@@ -1,7 +1,8 @@
 # VoiceLord 1.3.2 by Aeurias for Mount & Blade II: Bannerlord
 
 ### [NexusMods Page Here](https://www.nexusmods.com/mountandblade2bannerlord/mods/59)  Add me on Discord Aeurias#5479
-### [Translation Template Here](https://www.nexusmods.com/mountandblade2bannerlord/mods/59?tab=files)
+
+![](https://img.shields.io/github/release/Aeurias/VoiceLord/)
 
 ![](https://i.imgur.com/Qd7BNMq.png)
 
