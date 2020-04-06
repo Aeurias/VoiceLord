@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <VoiceMacroProfile xmlns:ext="VoiceMacro exported profile data file">
   <GUID>59fbb73b-8d82-4eac-a9bb-0789dd5d14d6</GUID>
-  <ProfileName>VoiceLord by Aeurias 1.3.2 - Spanish Translation by Wolin</ProfileName>
+  <ProfileName>VoiceLord by Aeurias 1.3.2 - Spanish Translation by Wolin (Import)</ProfileName>
   <TargetWindow>[Active window]</TargetWindow>
     <Groups>
       <Group>
@@ -1412,7 +1412,7 @@
         <MacroAction>
           <MacroType>1</MacroType>
           <Keyboard>
-            <Key>F7</Key>
+            <Key>F6</Key>
             <ClickDownUp>0</ClickDownUp>
             <ClickDuration>30</ClickDuration>
           </Keyboard>
