@@ -1423,7 +1423,7 @@
       <GUID>b8d3ba96-fe18-4d18-9dc3-f681d1051d51</GUID>
       <Group>VoiceMacro Commands</Group>
       <Description>Microphone Test</Description>
-      <RecocnitionText>[;me escuhas; me oyes; prueba]</RecocnitionText>
+      <RecocnitionText>me escuhas; me oyes; prueba</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
@@ -2075,7 +2075,6 @@
       <GUID>01758c8a-d808-465c-b173-06a00488b0c3</GUID>
       <Group>Single Group Action - Movement</Group>
       <Description>Infantry - Move To Target</Description>
-      <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [infantería;guerreros;luchadores;a pie] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa; defender la posición; defender eso; defender esta posición]</RecocnitionText>
       <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [infantería;guerreros;luchadores;a pie] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa; defender la posición; defender eso; defender esta posición]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
