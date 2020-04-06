@@ -2,7 +2,8 @@
 
 ### [NexusMods Page Here](https://www.nexusmods.com/mountandblade2bannerlord/mods/59)  - Add me on Discord Aeurias#5479
 
-[![](https://img.shields.io/badge/Download-VoiceLord_1.3.2b-green.svg?logo=&style=flat-square)](https://github.com/Aeurias/VoiceLord/releases/tag/v1.3.2b) - [![](https://img.shields.io/badge/NEXUS-MODS-orange.svg?logo=&style=flat-square)](https://www.nexusmods.com/mountandblade2bannerlord/mods/59) - [![](https://img.shields.io/badge/Discord-Aeurias#5479-7289DA.svg?logo=&style=flat-square)]()
+[![](https://img.shields.io/badge/Download-VoiceLord_1.3.2b-green.svg?logo=&style=flat-square)](https://github.com/Aeurias/VoiceLord/releases/tag/v1.3.2b) - [![](https://img.shields.io/badge/NEXUS-MODS-orange.svg?logo=&style=flat-square)](https://www.nexusmods.com/mountandblade2bannerlord/mods/59) - 
+[![](https://img.shields.io/badge/Discord-Aeurias#5479-7289DA?logo=&style=flat-square)]()
 
 https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 
