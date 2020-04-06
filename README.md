@@ -45,7 +45,9 @@ That's all! Now grab a glass a water to keep that voice of yours hydrated and st
 
 ![](https://i.imgur.com/xSPwsoH.png) ![](https://i.imgur.com/ChuaPkA.png) 
 
-> Make sure you adjust the recognition threshold settings to your liking or use settings in the image
+> *Make sure you adjust the recognition threshold settings to your liking or use settings in the image*
+
+------
 
 ### Help it doesn't work for me!
 
