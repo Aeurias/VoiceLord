@@ -1,4 +1,4 @@
-# VoiceLord 1.3.2 by Aeurias for VoiceMacro
+# VoiceLord 1.3.2 by Aeurias for Mount & Blade II: Bannerlord
 
 ![](https://i.imgur.com/Qd7BNMq.png)
 
@@ -32,7 +32,7 @@ Simple, you will need:
 2. **Import into VoiceMacro by pressing the Edit button at the top left.**
 3. **Then on the Profiles and macros window, press Import at the bottom.**
 4. **The profile will be loaded, press Save.**
-5. **Now on the VoiceMacro window to make sure Mount and Blade II Bannerlord is the target or choose Active Window.**
+5. **Now on the VoiceMacro window to make sure *Mount and Blade II Bannerlord* is the target or choose *Active Window*.**
 
 You can test to see if voice recognition and/or your microphone is working by saying *"can you hear me?"* a Windows TTS bot will respond, letting you know!
 
