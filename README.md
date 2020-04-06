@@ -44,9 +44,10 @@ That's all! Now grab a glass a water to keep that voice of yours hydrated and st
 
 
 ![](https://i.imgur.com/xSPwsoH.png) ![](https://i.imgur.com/ChuaPkA.png) 
+
 > Make sure you adjust the recognition threshold settings to your liking or use settings in the image
 
-Help it doesn't work for me!
+## Help it doesn't work for me!
 
 
 You will need to set up and train your Microsoft speech recognition for better accuracy if you haven't before. The more you train it or the more you use it, the more it will detect your voice correctly; You can do this directly from VoiceMacro, by clicking the 3 lines, burger menu icon on the top right > Windows speech recogniser. It is suggested you do it at least 3 times.
@@ -57,6 +58,7 @@ You will need to set up and train your Microsoft speech recognition for better a
 If your voice is recognised but no actions are being inputted into the game, try running VoiceMacro app in **Administrator mode.**
 
 ![](https://cdn.discordapp.com/emojis/600180300747767808.png) ![](https://i.imgur.com/j4XaxuX.png)
+
 *Also, make sure nothing in the top right of the VoiceMacro app has been toggled off **(Red X).** *
 
 
