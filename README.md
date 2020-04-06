@@ -1,6 +1,6 @@
 # VoiceLord 1.3.2 by Aeurias for Mount & Blade II: Bannerlord
 
-[![](https://img.shields.io/badge/Download-VoiceLord_1.3.2b-green?logo=&style=flat-square)](https://github.com/Aeurias/VoiceLord/releases/tag/v1.3.2b)  [![](https://img.shields.io/badge/NEXUS-MODS-orange?logo=&style=flat-square)](https://www.nexusmods.com/mountandblade2bannerlord/mods/59)  [![](https://img.shields.io/badge/Discord-Aeurias_#5479-7289da?logo=&style=flat-square)](https://www.nexusmods.com/mountandblade2bannerlord/mods/59)
+[![](https://img.shields.io/badge/Download-VoiceLord_1.3.2b-green?logo=&style=flat-square)](https://github.com/Aeurias/VoiceLord/releases/tag/v1.3.2b)  [![](https://img.shields.io/badge/NEXUS-MODS-orange?logo=&style=flat-square)](https://www.nexusmods.com/mountandblade2bannerlord/mods/59)  [![](https://img.shields.io/badge/Discord-Aeurias_5479-7289da?logo=&style=flat-square)](https://www.nexusmods.com/mountandblade2bannerlord/mods/59)
 
 ![](https://i.imgur.com/Qd7BNMq.png)
 
