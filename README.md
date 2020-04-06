@@ -48,32 +48,35 @@ That's all! Now grab a glass a water to keep that voice of yours hydrated and st
 
 Help it doesn't work for me!
 
+
 You will need to set up and train your Microsoft speech recognition for better accuracy if you haven't before. The more you train it or the more you use it, the more it will detect your voice correctly; You can do this directly from VoiceMacro, by clicking the 3 lines, burger menu icon on the top right > Windows speech recogniser. It is suggested you do it at least 3 times.
 
-﻿
+![](https://i.imgur.com/UTnFDha.png)
 
 
-If your voice is recognised but no actions are being inputted into the game, try running VoiceMacro app in administrator mode.
+If your voice is recognised but no actions are being inputted into the game, try running VoiceMacro app in **Administrator mode.**
 
-﻿ ﻿﻿
-Also, make sure nothing in the top right of the VoiceMacro app has been toggled off (Red X).
-
-
-You will also need to make sure you have Microsoft Speech Recogniser in English on your machine, most likely you will.
+![](https://cdn.discordapp.com/emojis/600180300747767808.png) ![](https://i.imgur.com/j4XaxuX.png)
+*Also, make sure nothing in the top right of the VoiceMacro app has been toggled off **(Red X).** *
 
 
-If it's detecting words, but not words you are saying or it has some uncertainty to it, you can change the recognition settings in the Recogniser settings in the settings drop window by following the image guide above.
+You will also need to make sure you have *Microsoft Speech Recogniser in English* on your machine, most likely you will.
 
 
-VoiceMacro is using the microphone that is set as "Default Device" in Window's Audio Recording Settings if you have attached over one microphone you might have to define which one to use as the default microphone - you also have to make sure the microphone Input Volume Level is not too low, too high or the microphone is muted. Check VoiceMacro's Main Window left bottom corner for the green Input Volume Meter to make sure the Microphone Input is not too low when you speak.
-
-After talking, make a short pause (about 1 sec) before you speak the next command.
-
-if you misspoke a command (like "Archers make me wet"), don't correct yourself by saying "err, archers, chaaarrgeeee??"...
-If the recognition engine does not understand your command at the first try, don't change your voice, just wait for a second and repeat and speak clearer, it will help it as it learns your voice.
+If it's detecting words, but not words you are saying or it has some uncertainty to it, you can change the recognition settings in the *Recogniser settings* in the settings drop window by following the image guide above.
 
 
-Speech Recognition will work way better over time, you can blast battle music in the background on speakers or whisper the commands at night and it will understand it.
+VoiceMacro is using the microphone that is set as *"Default Device"* in **Window's Audio Recording Settings** if you have attached over one microphone you might have to define which one to use as the default microphone - you also have to make sure the microphone **Input Volume Level** is not **too low, too high or the microphone is muted.** Check VoiceMacro's Main Window left bottom corner for the **green Input Volume Meter** to make sure the Microphone Input is not too low when you speak.
+
+*After talking, make a short pause (about 1 sec) before you speak the next command.*
+
+if you misspoke a command (like *"Archers make me wet"*), don't correct yourself by saying *"err, archers, chaaarrgeeee??"*...
+If the recognition engine does not understand your command at the first try, don't change your voice, just wait for a second and repeat and speak clearer, this will help it as it learns your voice.
+
+
+*Speech Recognition will work way better over time, you can blast battle music in the background on speakers or whisper the commands at night and it will understand it.*
+
+------
 
 **VoiceLord** works by selecting an AI group then doing an command action
 
