@@ -1423,7 +1423,7 @@
       <GUID>b8d3ba96-fe18-4d18-9dc3-f681d1051d51</GUID>
       <Group>VoiceMacro Commands</Group>
       <Description>Microphone Test</Description>
-      <RecocnitionText>can you hear me</RecocnitionText>
+      <RecocnitionText>[;me escuhas; me oyes; prueba]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
