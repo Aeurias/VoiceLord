@@ -119,3 +119,118 @@ or you say = ***"Archers", "Charge"***
 Saying it like this **without** any prefix or suffix is **bad** and makes it **very difficult** for the engine to detect your voice.
 
 Choices are split with  **;** semicolons, you can say any one of them combined with any **prefix/infix/suffix** that is in **[  ]** square brackets for that voice command.
+
+I've only listed some of them down below so you can understand how they work, there are a lot more available in the profile, but once you understand how these work, the rest will come naturally... :)
+
+## Voice Commands
+
+
+### Misc
+
+Voice Command  | Voice Test
+:------------- | -------------
+**Can you hear me** | TTS Microphone Test
+
+### Face Direction Commands
+
+Voice Command  | What it does
+:------------- | :-------------
+[;fucking; okay] **face that way; face there; look there; look that way; look over there**  | Face to Target
+[;fucking; okay] **face the enemy; look at them; look at the enemy**   | Face the Enemy
+
+### Formation Commands
+Voice Command  | What it does
+:------------- | :-------------
+[;form a; make a; return to] [;fucking] **line; line formation; normal formation; standard formation; basic formation**  | Line Formation
+[;form a; make a] [;fucking] **shieldwall; spearwall; shields**   | Shieldwall Formation
+[;go on; adopt; take on] **loose formation**  | Loose Formation
+[;form a; make a] [;fucking] **circle; circle formation; ring**  | Circle Formation
+[;form a; make a] [;fucking] **block; square; block formation; square formation**  | Square Formation
+[;form a; make a] [;fucking] **wedge; wedge formation;spear; spear formation; skein; skein formation**  | Wedge Formation 
+[;form a; make a] [;fucking] **column; column formation**   | Colum Formation 
+[;fucking; okay] **scatter; scatter formation; scatter out; disperse**  | Scatter Formation 
+ 
+ 
+### General Commands
+
+Voice Command  | What it does
+:------------- | :-------------
+[;fucking; okay] **hold your fire; stop shooting; hold fire; stop firing; fire at will; fire; loose; shoot; stop fucking firing; stop fucking shooting; hold your fucking fire; fucking fire**  | Hold Fire Toggle
+[;fucking; okay] **dismount; mount; mount up; on your horses; off your horses; get on your horses; get off your horses** | Mount/Dismount Horsies
+[;fucking; okay] **take command; on my command; to my command; you're on your own; all yours sarge; you're in charge**  | Transfer Command
+
+ 
+### Movement Command
+
+Voice Command  | What it does
+:------------- | :-------------
+[;fucking; okay] **move; go; move there; go there; hold that position; hold this position; hold there; wait there; hold here; stay here; defend this position; defend that position; move to this location**  | Move to Target 
+[;fucking; okay] **follow me; on me; to me; come over here**  | Follow Me
+[;fucking; okay] **charge;attack; kill them; kill them all; fight; get them; chase them down; hunt them down; run them down; fuck them up; kill the bastards; cut them down; drop them dead**  | Charge
+[;fucking; okay] **advance; forward; march; move on; continue; onward; push forward**  | March Forward 
+[;fucking; okay] **fall back; move back; back; pull back**  | Fall Back
+[;fucking; okay] **stop there; stop moving; hold your ground**  | Stop Movement 
+[;fucking; okay] **sound the retreat; retreat; run away; runaway; fucking leg it** |  Retreat
+
+### Unit Selection
+
+Voice Command  | What it does
+:------------- | :-------------
+[;fucking; okay] **everyone; army; troops; units; all units** [;listen to me]  | Select Entire Army 
+[;fucking; okay] **infantry; warriors; fighters; footmen** [;listen to me]  | Select Infantry
+[;fucking; okay] **archers; ranged units; crossbows; crossbowmen** [;listen to me]  | Select Archers
+[;fucking; okay] **cavalry; knights; horsemen; riders** [;listen to me]  | Select Cavalry
+[;fucking; okay] **horse archers** [;listen to me] | Select Horse Archers 
+[;fucking; okay] **group five; group fiver** [;listen to me] | Select Group 5
+[;fucking; okay] **group six; group sex** [;listen to me] | Select Group 6
+[;fucking; okay] **group seven** [;listen to me] | Select Group 7
+[;fucking; okay] **group eight; group ayte; group ate** [;listen to me] | Select Group 8
+[;fucking; okay] **group nine; group niner** [;listen to me] | Select Group 9
+[;fucking; okay] **infantry and archers; archers and infantry**  [;listen to me] | Select Infantry & Archers
+[;fucking; okay] **infantry and cavalry; cavalry and infantry**  [;listen to me] | Select Infantry & Cavalry
+[;fucking; okay] **infantry and horse archers; horse archers and infantry**  [;listen to me] |  Select Infantry & Horse Archers
+[;fucking; okay] **archers and horse archers; horse archers and archers**  [;listen to me] | Select Archers & Horse Archers 
+[;fucking; okay] **cavalry and archers; archers and cavalry**  [;listen to me] | Select Cavalry & Archers 
+[;fucking; okay] **cavarly and horse archers; horse archers and cavalry**  [;listen to me] | Select Cavalry & Horse Archers 
+[;fucking; okay] **infantry archers and cavalry; archers infantry and cavalry; cavalry infantry and archers; cavalry archers and infantry; archers cavalry and infantry**  [;listen to me] | Select Infantry, Archers & Cavalry 
+[;fucking; okay] **infantry archers and horse archers; archers infantry and horse archers; horse archers infantry and archers; horse archers archers and infantry; archers horse archers and infantry**  [;listen to me] | Select Infantry, Archers & Horse Archers
+[;fucking; okay] **infantry horse archers and cavalry; horse archers infantry and cavalry; cavalry infantry and horse archers; cavalry horse archers and infantry; horse archers cavalry and infantry**  [;listen to me] | Select Infantry, Cavalry & Horse Archers
+[;fucking; okay] **cavalry archers and horse archers; archers cavalry and horse archers; horse archers cavalry and archers; horse archers archers and cavalry; archers horse archers and cavalry**  [;listen to me] | Select Archers, Cavalry & Horse Archers
+
+
+
+### Single Unit Action Command - Hold Fire
+
+Voice Command  | What it does
+:------------- | -------------
+[;fucking] **everyone; army; troops; units; all units; men** [;fucking] **hold your fire; stop shooting; hold fire; stop firing; fire at will; fire; loose; shoot; stop fucking firing; stop fucking shooting; hold your fucking fire; fucking fire** | Everyone - Fire at will Toggle
+[;fucking] **archers; ranged units; crossbows; crossbowmen** [;fucking] **hold your fire; stop shooting; hold fire; stop firing; fire at will; fire; loose; shoot; stop fucking firing; stop fucking shooting; hold your fucking fire; fucking fire** | Archers - Fire at will Toggle
+[;fucking] **cavalry; knights; horsemen; riders** [;fucking] **hold your fire; stop shooting; hold fire; stop firing; fire at will; fire; loose; shoot; stop fucking firing; stop fucking shooting; hold your fucking fire; fucking fire** | Cavalry - Fire at will Toggle
+[;fucking] **horse archers; mounted archers** [;fucking] **hold your fire; stop shooting; hold fire; stop firing; fire at will; fire; loose; shoot; stop fucking firing; stop fucking shooting; hold your fucking fire; fucking fire** | Horse Archers - Fire at will Toggle
+**group five; group fiver** [;fucking] **hold your fire; stop shooting; hold fire; stop firing; fire at will; fire; loose; shoot; stop fucking firing; stop fucking shooting; hold your fucking fire; fucking fire** | Group 5 - Fire at will Toggle
+**group six; group sex** [;fucking] **hold your fire; stop shooting; hold fire; stop firing; fire at will; fire; loose; shoot; stop fucking firing; stop fucking shooting; hold your fucking fire; fucking fire** | Group 6 - Fire at will Toggle
+**group seven** [;fucking] **hold your fire; stop shooting; hold fire; stop firing; fire at will; fire; loose; shoot; stop fucking firing; stop fucking shooting; hold your fucking fire; fucking fire** | Group 7 - Fire at will Toggle
+**group eight; group ayte; group ate** [;fucking] **hold your fire; stop shooting; hold fire; stop firing; fire at will; fire; loose; shoot; stop fucking firing; stop fucking shooting; hold your fucking fire; fucking fire**| Group 8 - Fire at will Toggle
+**group nine; group niner** [;fucking] **hold your fire; stop shooting; hold fire; stop firing; fire at will; fire; loose; shoot; stop fucking firing; stop fucking shooting; hold your fucking fire; fucking fire** | Group 9 - Fire at will Toggle
+
+### Single Unit Combination Command
+
+Voice Command  | What it does
+:------------- | -------------
+*[;fucking; okay]* **[everyone;army;troops;units;all units;men]** *[;fucking]* **[move; move there;go there; hold that position; hold this position;hold there;wait there; hold here;stay here;defend this position;defend that position; move to this location]** | Everyone - Move to Target
+.
+.
+. + 59 More available in the profile
+
+
+### Multi Group Combination Shouts
+
+Voice Command  | What it does
+:------------- | -------------
+*[;fucking]* **infantry and horse archers; horse archers and infantry** *[;fucking]* **hold your fire; stop shooting; hold fire; stop firing; fire at will; fire; loose; shoot; stop fucking firing; stop fucking shooting; hold your fucking fire; fucking fire** | Infantry & Horse Archers - Hold Fire
+*[;fucking]* **archers and horse archers;horse archers and archers** *[;fucking]* **hold your fire; stop shooting; hold fire; stop firing; fire at will; fire; loose; shoot; stop fucking firing; stop fucking shooting; hold your fucking fire; fucking fire** | Archers & Horse Archers - Hold Fire
+.
+.
+. + 35 More available in the profile
+
+Way fucking too many to list all those here (96 of them), just check the profile and you will understand they are easy to use...
