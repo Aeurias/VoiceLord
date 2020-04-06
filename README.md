@@ -57,7 +57,7 @@ That's all! Now grab a glass a water to keep that voice of yours hydrated and st
 ![](https://i.imgur.com/UTnFDha.png)
 
 
-> If your voice is recognised but no actions are being inputted into the game, try running VoiceMacro app in **Administrator mode.**
+If your voice is recognised but no actions are being inputted into the game, try running VoiceMacro app in **Administrator mode.**
 
 ![](https://cdn.discordapp.com/emojis/600180300747767808.png) ![](https://i.imgur.com/j4XaxuX.png)
 
