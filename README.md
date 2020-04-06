@@ -6,23 +6,23 @@
 
 ![](https://i.imgur.com/ByrmX54.png)
 
-**So how does it work?**
+#### **So how does it work?**
 
 **VoiceLord** works by using a speech recognition utility [**VoiceMacro**](http://www.voicemacro.net/download/) (*Which is like VoiceAttack but costs you nothing, yes it's free!*) with this we can send a combination of keys to the game to cast our commands for controlling troops = **Less faffing about with your keyboard + more immersion + more action!**
 
 
-**Give us some examples!**
+#### **Give us some examples!**
 
 With **VoiceLord**, you're able to select troops individually, all of them or in groups, and have them do formations, movements & commands.
 Saying a command such as *"Infantry and archers, make a shield wall"* will have those troops to make a shield wall for you.
 
 
-**Can I use sweary words?**
+#### **Can I use sweary words?**
 
 Of course, because swearing is cool... just add the F word to some commands or... just say *"Fookin leg it"* to do a rapid retreat!
 
 
-**So how do I get setup?**
+#### **So how do I get setup?**
 
 Simple, you will need:
 
