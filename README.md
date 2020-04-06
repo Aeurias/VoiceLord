@@ -7,18 +7,18 @@
 
 ### **So how does it work?**
 
-**VoiceLord** works by using a speech recognition utility [**VoiceMacro**](http://www.voicemacro.net/download/) (*Which is like VoiceAttack but costs you nothing, yes it's free!*) with this we can send a combination of keys to the game to cast our commands for controlling troops = **Less faffing about with your keyboard + more immersion + more action!**
+**VoiceLord** works by using a speech recognition utility [**VoiceMacro**](http://www.voicemacro.net/download/) (*It's just like VoiceAttack but costs you nothing, yes it's free!*) with this we can send a combination of keys to the game to cast our commands for controlling troops = **Less faffing about with your keyboard + more immersion + more action!**
 
 
 ### **Give us some examples!**
 
-With **VoiceLord**, you're able to select troops individually, all of them or in groups, and have them do formations, movements & commands.
-Saying a command such as *"Infantry and archers, make a shield wall"* will have those troops to make a shield wall for you.
+With **VoiceLord**, you're able to select & command troops individually, all of them or in groups, have them do formations, movements & actions.
+Saying a command such as *"Infantry and archers, make a shield wall"* will have those troops to make a shield wall for you, or you can make archers stop firing their bows, or make your gang charge into a castle by saying *"Okay everyone, hunt them down!"*...
 
 
 ### **Can I use sweary words?**
 
-Of course, because swearing is cool... just add the F word to some commands or... just say *"Fookin leg it"* to do a rapid retreat!
+Of course, because swearing is cool... just add the F word to some commands or... just say *"Okay everyone...FUCKING LEG IT!"* to do a rapid retreat!
 
  
 ### **So how do I get setup?**
