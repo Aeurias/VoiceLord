@@ -63,7 +63,7 @@ If your voice is recognised but no actions are being inputted into the game, try
 > *Also, make sure nothing in the top right of the VoiceMacro app has been toggled off (**Red X**)*
 
 
-You will also need to make sure you have *Microsoft Speech Recogniser in English* on your machine, most likely you will.
+You will also need to make sure you have *Microsoft Speech Recogniser 8.0 in English* on your machine, most likely you will.
 
 
 If it's detecting words, but not words you are saying or it has some uncertainty to it, you can change the recognition settings in the *Recogniser settings* in the settings drop window by following the image guide above.
