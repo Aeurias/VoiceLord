@@ -2,7 +2,7 @@
 
 ### [NexusMods Page Here](https://www.nexusmods.com/mountandblade2bannerlord/mods/59)  - Add me on Discord Aeurias#5479
 
-![](https://img.shields.io/github/release/Aeurias/VoiceLord/)
+![](https://img.shields.io/badge/release-1.3.2b-green?logo=&style=flat-square)(https://github.com/Aeurias/VoiceLord/releases/tag/v1.3.2b) 
 
 ![](https://i.imgur.com/Qd7BNMq.png)
 
