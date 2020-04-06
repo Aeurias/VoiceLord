@@ -18,7 +18,7 @@ Saying a command such as ***"Infantry and archers, make a shield wall"*** will h
 
 ### **Can I use sweary words?**
 
-Of course, because swearing is cool... just add the F word to some commands or... just say ***"Okay everyone...FUCKING LEG IT!"*** to do a rapid retreat!
+Of course, because swearing is cool... just add the F word to some commands or... and when it gets grim just say ***"Okay everyone...FUCKING LEG IT!"*** to do a rapid retreat!
 
  
 ### **So how do I get setup?**
