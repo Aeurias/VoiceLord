@@ -38,8 +38,8 @@ You can test to see if voice recognition and/or your microphone is working by sa
 
 That's all! Now grab a glass a water to keep that voice of yours hydrated and start a battle!
 
+------
 
-![](https://i.imgur.com/oUgvxKW.png)
 
 ![](https://i.imgur.com/xSPwsoH.png) ![](https://i.imgur.com/ChuaPkA.png) 
 > Make sure you adjust the recognition threshold settings to your liking or use settings in the image
