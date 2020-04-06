@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <VoiceMacroProfile xmlns:ext="VoiceMacro exported profile data file">
   <GUID>59fbb73b-8d82-4eac-a9bb-0789dd5d14d6</GUID>
-  <ProfileName>VoiceLord by Aeurias 1.3.2 - Spanish Translation by Wolin (Import)</ProfileName>
+  <ProfileName>VoiceLord by Aeurias 1.3.2 - Spanish Translation by Wolin</ProfileName>
   <TargetWindow>[Active window]</TargetWindow>
     <Groups>
       <Group>
@@ -155,7 +155,7 @@
       <GUID>ca38193f-3aa2-4aad-8ffd-e87b1dcccf7e</GUID>
       <Group>Formation Commands</Group>
       <Description>Line Formation</Description>
-      <RecocnitionText>[ ;formad una; haced una; formación de; posición de; formación en; formad; formación] [;puta] [linea; normal; basica]</RecocnitionText>
+      <RecocnitionText>[ ;formad una; haced una; formación de; posición de; formación en; formad; formación; format; posición] [;puta] [linea; normal; basica]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
@@ -189,7 +189,7 @@
       <GUID>f130f6b6-abe1-4bc3-8426-5b04e629f80b</GUID>
       <Group>Formation Commands</Group>
       <Description>Shieldwall Formation</Description>
-      <RecocnitionText>[ ;formad un; haced un; formación de; posición de; formación en; formad; formación] [;puto] [muro de escudos; muro de lanzas; escudos; defensiva]</RecocnitionText>
+      <RecocnitionText>[ ;formad un; haced un; formación de; posición de; formación en; formad; formación; format; posición] [;puto] [muro de escudos; muro de lanzas; escudos; defensiva]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
@@ -223,7 +223,7 @@
       <GUID>d24dfbfc-ca5a-44b3-afd1-e094a17239bf</GUID>
       <Group>Formation Commands</Group>
       <Description>Loose Formation</Description>
-      <RecocnitionText>[ ;formad ; formación; posición ] [dispersos, dispersa, separaos, separada, abierta]</RecocnitionText>
+      <RecocnitionText>[ ;formad ; formación; posición; format ] [dispersos, dispersa, separaos, separada, abierta; dispersados; separados]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
@@ -257,7 +257,7 @@
       <GUID>fab0a75a-192d-421d-b612-0d3df1744892</GUID>
       <Group>Formation Commands</Group>
       <Description>Circle Formation</Description>
-      <RecocnitionText>[ ;formad un ;haced un, formación de; posición de; formación en; formad; formación] [;puto] [círculo; anillo; disco]</RecocnitionText>
+      <RecocnitionText>[ ;formad un; haced un; formación de; posición de; formación en; formad; formación; format; posición] [;puto] [círculo; anillo; disco]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
@@ -291,7 +291,7 @@
       <GUID>1eebf306-9c49-4c42-b7df-b86c5d793a8e</GUID>
       <Group>Formation Commands</Group>
       <Description>Square Formation</Description>
-      <RecocnitionText>[ ;formad un ;haced un, formación de; posición de; formación en; formad; formación] [;puto ;puta] [bloque;cuadrado;tortuga]</RecocnitionText>
+      <RecocnitionText>[ ;formad un; haced un; formación de; posición de; formación en; formad; formación; format; posición] [;puto ;puta] [bloque;cuadrado;tortuga;testudo]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
@@ -325,7 +325,7 @@
       <GUID>cfe1fe7b-0809-4d34-b00a-0e72d706f7fa</GUID>
       <Group>Movement Commands</Group>
       <Description>Move to Target</Description>
-      <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa posición]</RecocnitionText>
+      <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa; defender la posición; defender eso; defender esta posición]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
@@ -571,7 +571,7 @@
       <GUID>c4b8f8e2-92ab-4acb-9823-48cc95a43aec</GUID>
       <Group>Formation Commands</Group>
       <Description>Wedge Formation</Description>
-      <RecocnitionText>[ ;formad una; haced una; formación de; posición de; formación en; formad; formación] [;puta] [cuña; punta de lanza; punta de flecha]</RecocnitionText>
+      <RecocnitionText>[ ;formad una; haced una; formación de; posición de; formación en; formad; formación; format; posición] [;puta] [cuña; punta de lanza; punta de flecha]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
@@ -605,7 +605,7 @@
       <GUID>88304fb4-b344-4400-9c60-7b65d5e7964a</GUID>
       <Group>Formation Commands</Group>
       <Description>Colum Formation</Description>
-      <RecocnitionText>[ ;formad una; haced una; formación de; posición de; formación en; formad; formación] [;puta] [columna; pila; fila]</RecocnitionText>
+      <RecocnitionText>[ ;formad una; haced una; formación de; posición de; formación en; formad; formación; format; posición] [;puta] [columna; pila; fila]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
@@ -1401,7 +1401,7 @@
       <GUID>f5edc742-643e-4f03-9249-826b9c6b4700</GUID>
       <Group>General Commands</Group>
       <Description>Transfer Command</Description>
-      <RecocnitionText>[;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [a mi comando; a mis ordenes; seguid mis ordenes; id a lo vuestro; escaramuza; a lo vuestro; a voluntad; sin ordenes]</RecocnitionText>
+      <RecocnitionText>[;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [a mi comando; a mis ordenes; seguid mis ordenes; id a lo vuestro; escaramuza; a lo vuestro; a voluntad; sin ordenes; hostigadlos]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
@@ -1663,7 +1663,7 @@
       <GUID>b0774aa4-215f-45fa-bce4-4bc47439adb1</GUID>
       <Group>Single Group Action - Movement</Group>
       <Description>Everyone - Move To Target</Description>
-      <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [todos;ejército;tropas;unidades;todo el mundo;todas las unidades;hombres;soldados] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa posición]</RecocnitionText>
+      <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [todos;ejército;tropas;unidades;todo el mundo;todas las unidades;hombres;soldados] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa; defender la posición; defender eso; defender esta posición]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
@@ -2075,7 +2075,8 @@
       <GUID>01758c8a-d808-465c-b173-06a00488b0c3</GUID>
       <Group>Single Group Action - Movement</Group>
       <Description>Infantry - Move To Target</Description>
-      <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [infantería;guerreros;luchadores;a pie] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa posición]</RecocnitionText>
+      <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [infantería;guerreros;luchadores;a pie] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa; defender la posición; defender eso; defender esta posición]</RecocnitionText>
+      <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [infantería;guerreros;luchadores;a pie] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa; defender la posición; defender eso; defender esta posición]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
@@ -2351,7 +2352,7 @@
       <GUID>615b3a17-ab01-4011-ba18-ea3753fdd485</GUID>
       <Group>Single Group Action - Movement</Group>
       <Description>Archers - Move To Target</Description>
-      <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [arqueros;unidades a distancia;ballesteros;ballestas;arcos] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa posición]</RecocnitionText>
+      <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [arqueros;unidades a distancia;ballesteros;ballestas;arcos] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa; defender la posición; defender eso; defender esta posición]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
@@ -2627,7 +2628,7 @@
       <GUID>98dbecda-3acf-4cfc-b732-48cab5b685d5</GUID>
       <Group>Single Group Action - Movement</Group>
       <Description>Cavalry - Move To Target</Description>
-      <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [caballería;caballeros;jinetes;cabalgadores] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa posición]</RecocnitionText>
+      <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [caballería;caballeros;jinetes;cabalgadores] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa; defender la posición; defender eso; defender esta posición]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
@@ -2903,7 +2904,7 @@
       <GUID>719ef5ea-1f5f-4a74-a734-e30c4c50f277</GUID>
       <Group>Single Group Action - Movement</Group>
       <Description>Horse Archers - Move To Target</Description>
-      <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [arqueros a caballo;arqueros montados] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa posición]</RecocnitionText>
+      <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [arqueros a caballo;arqueros montados] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa; defender la posición; defender eso; defender esta posición]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
@@ -3179,7 +3180,7 @@
       <GUID>269304dd-ba9d-4848-82c4-4ba9f49ae8ff</GUID>
       <Group>Single Group Action - Movement</Group>
       <Description>Group 5 - Move To Target</Description>
-      <RecocnitionText>[grupo cinco; quinto grupo] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa posición]</RecocnitionText>
+      <RecocnitionText>[grupo cinco; quinto grupo] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa; defender la posición; defender eso; defender esta posición]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
@@ -3625,7 +3626,7 @@
       <GUID>47fd8d9f-ec28-42e3-b4a2-847a21cd0aac</GUID>
       <Group>Single Group Action - Movement</Group>
       <Description>Group 6 - Move To Target</Description>
-      <RecocnitionText>[grupo seis; sexto grupo] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa posición]</RecocnitionText>
+      <RecocnitionText>[grupo seis; sexto grupo] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa; defender la posición; defender eso; defender esta posición]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
@@ -3901,7 +3902,7 @@
       <GUID>51252e05-ec81-4720-92f5-4ceb08898d7c</GUID>
       <Group>Single Group Action - Movement</Group>
       <Description>Group 7 - Move To Target</Description>
-      <RecocnitionText>[grupo siete; septimo grupo] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa posición]</RecocnitionText>
+      <RecocnitionText>[grupo siete; septimo grupo] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa; defender la posición; defender eso; defender esta posición]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
@@ -4177,7 +4178,7 @@
       <GUID>238f2dee-7161-4cf7-98d2-bc5ec6a35c76</GUID>
       <Group>Single Group Action - Movement</Group>
       <Description>Group 8 - Move To Target</Description>
-      <RecocnitionText>[grupo ocho; octavo grupo] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa posición]</RecocnitionText>
+      <RecocnitionText>[grupo ocho; octavo grupo] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa; defender la posición; defender eso; defender esta posición]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
@@ -4453,7 +4454,7 @@
       <GUID>ac8600c0-abf9-44d9-af7d-51d9614ab19a</GUID>
       <Group>Single Group Action - Movement</Group>
       <Description>Group 9 - Move To Target</Description>
-      <RecocnitionText>[grupo nueve; noveno grupo] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa posición]</RecocnitionText>
+      <RecocnitionText>[grupo nueve; noveno grupo] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa; defender la posición; defender eso; defender esta posición]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
@@ -4729,7 +4730,7 @@
       <GUID>9242fe08-f3e2-4f62-a7aa-b05c93aac482</GUID>
       <Group>Multi Group Action - Movement</Group>
       <Description>Infantry &amp; Archers - Move to Target</Description>
-      <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [infantería y arqueros;arqueros e infantería] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa posición]</RecocnitionText>
+      <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [infantería y arqueros;arqueros e infantería] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa; defender la posición; defender eso; defender esta posición]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
@@ -5277,7 +5278,7 @@
       <GUID>43ca4431-5e03-4018-a5ad-5f09b188f879</GUID>
       <Group>Multi Group Action - Movement</Group>
       <Description>Infantry &amp; Cavalry - Move to Target</Description>
-      <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [infantería y caballería;caballería y infantería;caballeros y infantería;infantería y caballeros;jinetes y infantería;infantería y jinetes;cabalgadores y infantería;infantería y cabalgadores] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa posición]</RecocnitionText>
+      <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [infantería y caballería;caballería y infantería;caballeros y infantería;infantería y caballeros;jinetes y infantería;infantería y jinetes;cabalgadores y infantería;infantería y cabalgadores] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa; defender la posición; defender eso; defender esta posición]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
@@ -5757,7 +5758,7 @@
       <GUID>66c474a5-e9c3-4782-b4bd-e01a943754e7</GUID>
       <Group>Multi Group Action - Movement</Group>
       <Description>Infantry &amp; Horse Archers - Move to Target</Description>
-      <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [infantería y arqueros a caballo;arqueros a caballo e infantería] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa posición]</RecocnitionText>
+      <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [infantería y arqueros a caballo;arqueros a caballo e infantería] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa; defender la posición; defender eso; defender esta posición]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
@@ -6237,7 +6238,7 @@
       <GUID>700f5318-544e-47fe-94d8-6f7682b6615c</GUID>
       <Group>Multi Group Action - Movement</Group>
       <Description>Archers &amp; Horse Archers - Move to Target</Description>
-      <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [arqueros y arqueros a caballo;arqueros a caballo y arqueros] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa posición]</RecocnitionText>
+      <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [arqueros y arqueros a caballo;arqueros a caballo y arqueros] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa; defender la posición; defender eso; defender esta posición]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
@@ -6717,7 +6718,7 @@
       <GUID>daa7d074-e256-4cd0-8770-8297392b3458</GUID>
       <Group>Multi Group Action - Movement</Group>
       <Description>Archers &amp; Cavalry - Move to Target</Description>
-      <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [caballería y arqueros;arqueros y caballería;caballeros y arqueros;arqueros y caballeros;jinetes y arqueros;arqueros y jinetes;cabalgadores y arqueros;arqueros y cabalgadores] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa posición]</RecocnitionText>
+      <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [caballería y arqueros;arqueros y caballería;caballeros y arqueros;arqueros y caballeros;jinetes y arqueros;arqueros y jinetes;cabalgadores y arqueros;arqueros y cabalgadores] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa; defender la posición; defender eso; defender esta posición]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
@@ -7197,7 +7198,7 @@
       <GUID>81de0c69-90c4-4207-b9d3-0b6a52b03876</GUID>
       <Group>Multi Group Action - Movement</Group>
       <Description>Cavalry &amp; Horse Archers - Move to Target</Description>
-      <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [caballería y arqueros a caballo;arqueros a caballo y caballería;caballeros y arqueros a caballo;arqueros a caballo y caballeros;jinetes y arqueros a caballo;arqueros a caballo y jinetes;cabalgadores y arqueros a caballo;arqueros a caballo y cabalgadores] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa posición]</RecocnitionText>
+      <RecocnitionText>[;vale;puto; puta; putas; putos; maldito; maldita; jodido; jodida] [caballería y arqueros a caballo;arqueros a caballo y caballería;caballeros y arqueros a caballo;arqueros a caballo y caballeros;jinetes y arqueros a caballo;arqueros a caballo y jinetes;cabalgadores y arqueros a caballo;arqueros a caballo y cabalgadores] [moveros;moveros aqui;moveros ahí;moverse;moverse aqui;moverse ahí;moverlos;moverlos aqui;moverlos ahi; id ahí; ir ahí;mantened esa posición;mantened esta posición;mantened la posición;aguantar aquí;esperar; esperad; esperad aquí;defended esta posición;defended esa; defender la posición; defender eso; defender esta posición]</RecocnitionText>
       <ShortCut>
         <Key>None</Key>
         <OnKeyAction>0</OnKeyAction>
