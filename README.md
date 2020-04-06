@@ -21,7 +21,7 @@ Saying a command such as *"Infantry and archers, make a shield wall"* will have 
 
 Of course, because swearing is cool... just add the F word to some commands or... just say *"Fookin leg it"* to do a rapid retreat!
 
-
+ 
 ### **So how do I get setup?**
 
 Simple, you will need:
