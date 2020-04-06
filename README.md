@@ -3,7 +3,6 @@
 [![](https://img.shields.io/badge/Download-VoiceLord_1.3.2b-green?logo=&style=flat-square)](https://github.com/Aeurias/VoiceLord/releases/tag/v1.3.2b)  [![](https://img.shields.io/badge/NEXUS-MODS-orange?logo=&style=flat-square)](https://www.nexusmods.com/mountandblade2bannerlord/mods/59)  [![](https://img.shields.io/badge/Discord-Aeurias_5479-7289da?logo=&style=flat-square)](https://www.nexusmods.com/mountandblade2bannerlord/mods/59)
 
 ![](https://i.imgur.com/Qd7BNMq.png)
-
 ![](https://i.imgur.com/ByrmX54.png)
 
 ### **So how does it work?**
@@ -59,7 +58,7 @@ That's all! Now grab a glass a water to keep that voice of yours hydrated and st
 
 If your voice is recognised but no actions are being inputted into the game, try running VoiceMacro app in **Administrator mode.**
 
-![](https://cdn.discordapp.com/emojis/600180300747767808.png) ![](https://i.imgur.com/j4XaxuX.png)
+![](https://cdn.discordapp.com/emojis/600180300747767808.png)  ![](https://i.imgur.com/j4XaxuX.png)
 
 > *Also, make sure nothing in the top right of the VoiceMacro app has been toggled off (**Red X**)*
 
